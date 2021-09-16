@@ -1,6 +1,6 @@
 # Playground
 
-CS107 CS121 CS182
+Zach is taking CS107
 
 A place to play with `git`.
 
