@@ -1,6 +1,6 @@
 # Playground
 
-Zach is taking CS107
+Zach is a junior taking CS107
 
 A place to play with `git`.
 
